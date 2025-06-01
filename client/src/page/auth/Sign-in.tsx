@@ -78,7 +78,7 @@ const SignIn = () => {
         {/* ✅ Fix: Separate Logo and Link to avoid nesting issues */}
         <div className="flex items-center gap-2 self-center font-medium">
           <Logo />
-          <Link to="/">Team Vibe.</Link>
+          <Link to="/">Task Vibe.</Link>
         </div>
 
         <div className="flex flex-col gap-6">

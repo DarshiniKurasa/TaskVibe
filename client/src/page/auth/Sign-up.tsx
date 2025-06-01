@@ -58,7 +58,7 @@ const SignUp = () => {
         {/* ✅ Fix: Logo is no longer nested inside Link */}
         <div className="flex items-center gap-2 self-center font-medium">
           <Logo />
-          <Link to="/">Team Vibe.</Link>
+          <Link to="/">Task Vibe.</Link>
         </div>
 
         <div className="flex flex-col gap-6">
