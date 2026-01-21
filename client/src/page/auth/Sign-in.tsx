@@ -126,9 +126,7 @@ const SignIn = () => {
                               <FormLabel className="dark:text-[#f1f7feb5] text-sm">
                                 Password
                               </FormLabel>
-                              <Link to="/forgot-password" className="ml-auto text-sm underline-offset-4 hover:underline">
-                                Forgot your password?
-                              </Link>
+                              
                             </div>
                             <FormControl>
                               <Input type="password" className="!h-[48px]" {...field} />

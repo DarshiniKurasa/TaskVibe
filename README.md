@@ -43,7 +43,6 @@ This project leverages the latest tools and frameworks for modern development:
 ## 🔄 Getting Started  
 
 
-
 ### 1. Set Up Environment Variables  
 
 Create a `.env` file in the root of your project and configure these variables:  
